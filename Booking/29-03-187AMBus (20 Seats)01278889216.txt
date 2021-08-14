@@ -1,0 +1,22 @@
+One Way Trip
+External
+Egypt
+Algeria
+29-03-18
+NoReturn
+Bus (20 Seats)
+NonStop
+7AM
+seat no.6
+1000
+Osama
+Mahmoud
+Male
+Egyptian
+16-06-92
+01278889216
+14 Roshdy
+NoReturn
+NoReturn
+NoReturn
+NoReturn

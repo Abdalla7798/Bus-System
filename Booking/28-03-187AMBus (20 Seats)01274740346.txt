@@ -1,0 +1,22 @@
+Round Trip
+Internal
+Luxor
+ElGouna
+28-03-18
+30-03-18
+Bus (20 Seats)
+NonStop
+7AM
+seat no.4
+60
+Hossam
+Mohamed
+Male
+Egyptian
+19-03-80
+01274740346
+99 Spoting
+MiniBus (10 Seats)
+12PM
+seat no.5
+60

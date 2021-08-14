@@ -1,0 +1,10 @@
+seat no.1
+seat no.2
+seat no.3
+seat no.4
+seat no.5
+seat no.6
+seat no.7
+seat no.8
+seat no.9
+seat no.10

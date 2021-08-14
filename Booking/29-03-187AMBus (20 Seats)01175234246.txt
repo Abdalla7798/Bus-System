@@ -1,0 +1,22 @@
+Round Trip
+Internal
+Luxor
+ElGouna
+29-03-18
+30-03-18
+Bus (20 Seats)
+NonStop
+7AM
+seat no.4
+60
+Ali
+Omar
+Male
+Egyptian
+11-05-71
+01175234246
+44 SidiGaber
+MiniBus (10 Seats)
+12PM
+seat no.6
+60

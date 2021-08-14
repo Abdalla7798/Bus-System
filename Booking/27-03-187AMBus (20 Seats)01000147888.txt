@@ -1,0 +1,22 @@
+Round Trip
+Internal
+Hurghada
+Aswan
+27-03-18
+29-03-18
+Bus (20 Seats)
+NonStop
+7AM
+seat no.5
+80
+Zeyad
+Ebrahem
+Male
+Egyptian
+20-07-98
+01000147888
+66 Smouha
+MiniBus (10 Seats)
+7AM
+seat no.5
+80
